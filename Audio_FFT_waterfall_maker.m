@@ -37,7 +37,7 @@ x = x / max(x);
 % hold off
 
 
-audiowrite('c:\temp\billy.wav',x,24000,'BitsPerSample',16);
+audiowrite('c:\temp\AudioWaterfall.wav',x,24000,'BitsPerSample',16);
 
 
 
